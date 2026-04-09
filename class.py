@@ -1,4 +1,4 @@
-class userProfile:
+class Profile:
     def firstName(self,FirstName):
         print(FirstName)
     def lastName(self,LastName):
